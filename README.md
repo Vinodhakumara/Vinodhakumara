@@ -28,17 +28,13 @@
 
 | Languages  | Cloud Env | Frontend stuff  | Others  |
 | ------------- | ------------- |  ------------- |  ------------- | 
-| ![C](https://img.shields.io/badge/-C-000?&logo=C)  | [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)  |  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  |  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  |  
+| ![C](https://img.shields.io/badge/-C-000?&logo=C)  | [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)  |  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  |  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  | 
 | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)  | ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  |   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)  |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)  |  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  |  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)  |
-| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  |   |   |   [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)  |
-| ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  |
+| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  |   |   |  ![Ansible](https://img.shields.io/badge/-Ansible-A80030?style=flat-square&logo=Ansible&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  ||| [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/) 
+  
 
-
-
-
-
-![Ansible](https://img.shields.io/badge/-Ansible-A80030?style=flat-square&logo=Ansible&logoColor=white)
 [![BigData](https://img.shields.io/badge/Learning-Bigdata-623ce4?style=flat-square&logo=hadoop&logoColor=white)]()
 [![Jenkins](https://img.shields.io/badge/Learning-Jenkins-623ce4?style=flat-square&logo=jenkins&logoColor=white)]()
 [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
@@ -58,7 +54,6 @@
 
 
 
-
   <div align="center">
   
   ###    OVERVIEW
@@ -70,6 +65,15 @@
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vinodhakumara&layout=compact&theme=radical" alt="Vinod's github languages used"/>
 <br>
+    
+###
+
+<b>My GitHub contributions as a Game of Life</b>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/Vinodhakumara.gif?z=6)](https://github4life.herokuapp.com/Vinodhakumara)
+
+##
+
   
 <!-- Contribution Graph -->
 
@@ -78,6 +82,8 @@
     
     
 <br>
+  
+  
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinodhakumara&theme=tokyonight" alt="Vinod's github stats"/>
   
   <br>  <br>

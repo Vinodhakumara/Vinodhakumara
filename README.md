@@ -1,6 +1,6 @@
 
 <div align="center" >  
-  <img src="https://github.com/Vinodhakumara/Vinodhakumara/blob/78b06ab00fd303b04ddb879f6a4430ee4301b719/Vinu.jpeg" height=400>
+  <img src="https://github.com/Vinodhakumara/Vinodhakumara/blob/b1bdee714cd745b11ba1b055bee17ef59a9633ad/10-Technologies-of-the-Next-Decade-opengraph.png" height=400 width=1000>
 </div>
 <br>
   <div align="center">

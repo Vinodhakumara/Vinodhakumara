@@ -1,6 +1,6 @@
 
 <div align="center" >  
-  <img src="https://github.com/" height=400>
+  <img src="https://github.com/Vinodhakumara/Vinodhakumara/blob/78b06ab00fd303b04ddb879f6a4430ee4301b719/Vinu.jpeg" height=400>
 </div>
 <br>
   <div align="center">
@@ -90,7 +90,18 @@
   <img width=900 src="https://github-profile-trophy.vercel.app/?username=Vinodhakumara&column=7&no-frame=true" alt="Vinod's github Journey"/>
 
 </div>
+<!--BLOG Process-->
 
+<b>
+<table><tr><td valign="top" width="1000px">
+
+### [Blogs and Projects]
+<!-- recent_releases starts -->
+
+[Blogs on Technalogies](https://vinodhakumara2681997.medium.com/)
+  
+ [Some of Projects and Tasks](https://docs.google.com/spreadsheets/d/1FUwIt_KyRFkjyi8HaoaMdwWMi4vMOSvYmng3ONRLCzs/edit?usp=sharing)
+  </table>
 
 <!--
 **Vinodhakumara/Vinodhakumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

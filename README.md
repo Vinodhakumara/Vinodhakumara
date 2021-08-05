@@ -98,7 +98,7 @@
 ### [Blogs and Projects]
 <!-- recent_releases starts -->
 
-[Blogs on Technalogies](https://vinodhakumara2681997.medium.com/)
+[Blogs on Technologies ](https://vinodhakumara2681997.medium.com/)
   
  [Some of Projects and Tasks](https://docs.google.com/spreadsheets/d/1FUwIt_KyRFkjyi8HaoaMdwWMi4vMOSvYmng3ONRLCzs/edit?usp=sharing)
   </table>

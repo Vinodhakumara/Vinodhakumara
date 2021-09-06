@@ -19,10 +19,19 @@
 <a href="https://www.instagram.com/vinodhakumara2681997/" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
+<a href="https://bit.ly/3naNpMD" target="blank" style="margin-left: 5px;">
+<!-- <img src=https://img.shields.io/badge/discord-%23E4405F.svg?&style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
+  
+<img src="https://img.shields.io/discord/877073013303042050?color=blue&label=Join%20Community&logo=discord&style=for-the-badge" alt="join discord community of github profile readme generator" style="margin-bottom: 5px;padding:5px"/>
+</a>
+  
 <!--technical skills-->
 <br>
  <br>
+  <img src="https://Visitor-badge.laobi.icu/badge?page_id=Vinodhakumara.Vinodhakumara" width="150px")>
+<!-- ![](https://still-brushlands-82734.herokuapp.com/countercheck) -->
+<!--  ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat) -->
+
   
 ## Technical Skills 🛠 
 

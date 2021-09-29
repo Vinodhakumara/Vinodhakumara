@@ -65,7 +65,7 @@
 
   <div align="center">
   
-  ###    OVERVIEW
+<!--   ###    OVERVIEW
   
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vinodhakumara&show_icons=true&include_all_commits=true&theme=radical" alt="Vinod's github stats" />
@@ -74,7 +74,7 @@
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vinodhakumara&layout=compact&theme=radical" alt="Vinod's github languages used"/>
 <br>
-    
+     -->
 ###
 
 <b>My GitHub contributions as a Game of Life</b>
